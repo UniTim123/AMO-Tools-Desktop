@@ -1,0 +1,3 @@
+files:
+  - source: package.json
+    translation: package_nl.json
